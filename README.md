@@ -140,9 +140,9 @@ File CSV cho task GEC cần có các cột sau:
 **Ví dụ cấu trúc file `gec_train.csv` hoặc `gec_test.csv`:**
 
 ```csv
-en,output,candidate_1,candidate_2,candidate_3
-"Tôi đi học vào ngày mai.","Tôi sẽ đi học vào ngày mai.","Tôi sẽ đi học ngày mai.","Tôi đi học vào ngày mai nhé.","Tôi sẽ đi học vào ngày mai."
-"Hôm qua tôi đã ăn cơm.","Hôm qua tôi đã ăn cơm.","Hôm qua tôi ăn cơm.","Tôi đã ăn cơm hôm qua.","Hôm qua tôi đã ăn cơm."
+imput,output,candidate_1,candidate_2,candidate_3
+"Tôi ik học vào ngay mai.","Tôi sẽ đi học vào ngày mai.","Tôi sẽ đi học ngày mai.","Tôi đi học vào ngày mai nhé.","Tôi sẽ đi học vào ngày mai."
+"Hôm kua tôi đã ăn kơm.","Hôm qua tôi đã ăn cơm.","Hôm qua tôi ăn cơm.","Tôi đã ăn cơm hôm qua.","Hôm qua tôi đã ăn cơm."
 ```
 
 **Lưu ý:**
